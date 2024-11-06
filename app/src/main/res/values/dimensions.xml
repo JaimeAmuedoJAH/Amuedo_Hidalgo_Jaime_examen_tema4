@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_layout">15dp</dimen>
+    <dimen name="corner_radius_new_passenger">0dp</dimen>
+    <dimen name="corner_radius_buttons">5dp</dimen>
+    <dimen name="buttons">1dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+
+    <dimen name="landscape_margin_top">20dp</dimen>
+    <dimen name="landscape_width_buttons">140dp</dimen>
+</resources>

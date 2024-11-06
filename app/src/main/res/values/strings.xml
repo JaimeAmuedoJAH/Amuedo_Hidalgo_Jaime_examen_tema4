@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Amuedo_Hidalgo_Jaime_examen_tema4</string>
+    <string name="button_passenger">PASSENGER</string>
+    <string name="button_airline">AIRLINE</string>
+    <string name="button_destinations">DESTINATIONS</string>
+    <string name="button_new_passenger">NEW PASSENGER</string>
+
+    <string name="dialog_new_passenger_title">NEW PASSENGER</string>
+    <string name="dialog_new_passenger_message">Do you want to create a new registration?</string>
+    <string name="dialog_new_passenger_positive">Yes</string>
+    <string name="dialog_new_passenger_negative">No</string>
+
+    <string name="dialog_name_title">Enter the passenger name</string>
+    <string name="dialog_name_hint">Passenger name</string>
+    <string name="dialog_name_positive">Accept</string>
+    <string name="dialog_name_negative">Cancel</string>
+
+    <string name="dialog_airline_title">"Select airline</string>
+    <string-array name="arrAirline">
+        <item>Iberia</item>
+        <item>Vueling</item>
+        <item>Ryanair</item>
+    </string-array>
+    <string name="dialog_airline_positive">Accept</string>
+    <string name="dialog_airline_negative">Cancel</string>
+
+    <string name="dialog_destination_title">Select destinations</string>
+    <string-array name="arrDestinations">
+        <item>London</item>
+        <item>Roma</item>
+        <item>Paris</item>
+        <item>Washington</item>
+        <item>Lisboa</item>
+    </string-array>
+    <string name="dialog_destination_positive">Accept</string>
+    <string name="dialog_destination_negative">Cancel</string>
+    <string name="dialog_destination_neutral">Clear all</string>
+</resources>

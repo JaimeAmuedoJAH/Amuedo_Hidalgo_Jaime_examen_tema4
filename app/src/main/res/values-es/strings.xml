@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_passenger">PASAJERO</string>
+    <string name="button_airline">AEROLINEA</string>
+    <string name="button_destinations">DESTINOS</string>
+    <string name="button_new_passenger">NUEVO PASAJERO</string>
+    <string name="dialog_new_passenger_title">NUEVO PASAJERO</string>
+    <string name="dialog_new_passenger_message">¿Quieres crear un nuevo registro?</string>
+    <string name="dialog_new_passenger_positive">Si</string>
+    <string name="dialog_new_passenger_negative">No</string>
+    <string name="dialog_name_title">Introduce el nombre del pasajero</string>
+    <string name="dialog_name_hint">Nombre del pasajero</string>
+    <string name="dialog_name_positive">Aceptar</string>
+    <string name="dialog_name_negative">Cancelar</string>
+    <string name="dialog_airline_title">Selecciona aerolínea</string>
+    <string name="dialog_airline_positive">Aceptar</string>
+    <string name="dialog_airline_negative">Cancelar</string>
+    <string name="dialog_destination_title">Seleccione destinos</string>
+    <string name="dialog_destination_positive">Aceptar</string>
+    <string name="dialog_destination_negative">Cancelar</string>
+    <string name="dialog_destination_neutral">Limpiar todo</string>
+</resources>
